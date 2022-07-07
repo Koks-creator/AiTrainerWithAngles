@@ -1,4 +1,7 @@
 # AiTrainerWithAngles
+![barkigifowe](https://user-images.githubusercontent.com/73878161/177748957-9b760566-c752-4f81-8dbd-4ea0b6a34d08.gif)
+
+
 # <h1>Trainer menu</h1>
 ![menutrenera](https://user-images.githubusercontent.com/73878161/177748337-1bbdb5cf-e0f0-483a-be5f-2e6a3c9392ad.jpg)
 
