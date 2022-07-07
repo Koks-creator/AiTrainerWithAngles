@@ -1,0 +1,62 @@
+{
+    "Right arm biceps curl": {
+        "reps": 5,
+        "sets": 2,
+        "break": 5
+    },
+    "Left arm biceps curl": {
+        "reps": 10,
+        "sets": 1,
+        "break": 10
+    },
+    "Both arms biceps curl": {
+        "reps": 5,
+        "sets": 2,
+        "break": 5
+    },
+    "Pushups": {
+        "reps": 15,
+        "sets": 3,
+        "break": 10
+    },
+    "Squats": {
+        "reps": 15,
+        "sets": 3,
+        "break": 20
+    },
+    "Plank": {
+        "reps": 30,
+        "sets": 3,
+        "break": 15
+    },
+    "Crunches": {
+        "reps": 15,
+        "sets": 3,
+        "break": 10
+    },
+    "Over head Dumbbell Press": {
+        "reps": 10,
+        "sets": 2,
+        "break": 5
+    },
+    "Dum bbell lateral raise": {
+        "reps": 10,
+        "sets": 2,
+        "break": 5
+    },
+    "Reverse pushup from chair": {
+        "reps": 15,
+        "sets": 3,
+        "break": 10
+    },
+    "Pullups": {
+        "reps": 15,
+        "sets": 3,
+        "break": 10
+    },
+    "Dumbbell row": {
+        "reps": 5,
+        "sets": 2,
+        "break": 5
+    }
+}
